@@ -22,3 +22,7 @@ git clone https://github.com/abdullahansari-yk/Construction-Field-Management.git
 Install dependencies => npm install
 
 Run the project =>  npm run dev
+
+## Deployment (Vercel) 
+
+https://construction-field-management-fawn.vercel.app/
