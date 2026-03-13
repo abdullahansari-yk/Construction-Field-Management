@@ -17,11 +17,11 @@
 
 Clone the repo:
 
-git clone https://github.com/abdullahansari-yk/Construction-Field-Management.git
+Step 1: git clone https://github.com/abdullahansari-yk/Construction-Field-Management.git
 
-Install dependencies => npm install
+Step 2: npm install
 
-Run the project =>  npm run dev
+Step 3: npm run dev
 
 ## Deployment (Vercel) 
 
